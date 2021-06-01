@@ -1,4 +1,4 @@
-# LC2K Assembler
+# LC-2K
 C program turning assembly code into machine code, based on the "LC-2K" ISA. 
 
 ## The LC2K ISA
@@ -68,6 +68,10 @@ Machine Code Output:
 (address 9): 2
 
 ```
+
+## The Simulator
+
+This program simulates any legal LC-2K machine code program. It will print the current state of the machine (program counter, registers and memory) before executing each instruction, and once before the program exits.  
 
 
 ## The Multiplier
