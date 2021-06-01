@@ -1,4 +1,4 @@
-# LC-2K
+# LC-2K Assembler
 C program turning assembly code into machine code, based on the "LC-2K" ISA. 
 
 ## The LC2K ISA
